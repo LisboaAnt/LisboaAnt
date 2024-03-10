@@ -6,11 +6,21 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LisboaAnt&theme=github_dark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lisboa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Lisboa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Lisboa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Lisboa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Scrum" height="30" width="40" src="https://www.vectorlogo.zone/logos/scrum_alliance/scrum_alliance-icon.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
+  <img align="center" alt="MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+  <img align="center" alt="Next.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
 </div>
+
   
   #
  
