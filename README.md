@@ -27,6 +27,6 @@
   <a href="https://instagram.com/antoniolis_boa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:antoniol.carvalho49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.youtube.com/@antoniolisboa3897/videos" target="_blank"><img align="center" alt="YouTube" height="30" width="40" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg"></a>
+  <a href="https://www.youtube.com/@antoniolisboa3897/videos" target="_blank"><img align="center" alt="YouTube" height="30" width="40" src="https://img.shields.io/badge/-YouTube-%23E4401F?style=for-the-badge&logo=youtube&logoColor=white"></a>
  
 </div>
