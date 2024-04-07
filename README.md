@@ -1,6 +1,6 @@
  <h2 align="center">Hi there, welcome to my Github</h2>
 
-I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas. I'm **20** years old.  😁
+I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas/CE. I'm **20** years old.  😁
 
 💻 **I'm currently focusing on college and my [YouTube channel](https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig)**
 
