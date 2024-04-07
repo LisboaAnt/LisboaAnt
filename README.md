@@ -45,6 +45,9 @@ My goal is to become a great full-stack developer.✅
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=vue&utcOffset=-3)
+## Adicione Meus Gráficos:
+
+![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=vue)
+![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=vue)
+![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=vue&utcOffset=-3)
+
