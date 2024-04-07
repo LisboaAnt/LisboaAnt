@@ -1,4 +1,17 @@
+ <h2>Hi there, welcome to my Github</h2>
 
+
+I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas. I'm **20** years old.  😁
+
+💻 **I'm currently working as a dev**
+
+I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree(UFC).
+
+If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/)!📫
+
+I am familiar with JavaScript, React, Next, and Bootstrap.
+
+My goal is to become a great full-stack developer.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=github_dark&utcOffset=-3)
