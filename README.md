@@ -27,5 +27,6 @@
   <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://www.youtube.com/@antoniolisboa3897/videos" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4401F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
-<br>
+
+
 ![](https://komarev.com/ghpvc/?username=LisboaAnt&color=green)
