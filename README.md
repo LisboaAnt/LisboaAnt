@@ -13,6 +13,7 @@ I am familiar with JavaScript, React, Next, and Bootstrap.
 
 My goal is to become a great full-stack developer.✅
 <br>
+<h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/npentrel/octoclippy2/master/gifs/ears.gif" width="30"></h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
@@ -30,7 +31,7 @@ My goal is to become a great full-stack developer.✅
 
   
 <br>
- 
+ <h3 align="left">My social networks:</h3>
 <div> 
   <a href="https://instagram.com/antoniolis_boa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:antoniol.carvalho49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
