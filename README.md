@@ -3,7 +3,7 @@
 
 I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas. I'm **20** years old.  😁
 
-💻 **I'm currently working as a dev**
+💻 **I'm currently focusing on college and my [YouTube channel](https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig)**
 
 I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree(UFC).
 
