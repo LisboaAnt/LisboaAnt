@@ -2,8 +2,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=github_dark&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LisboaAnt&theme=github_dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
