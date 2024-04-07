@@ -11,11 +11,8 @@ If you are a employer, feel free to contact me on [likedin](https://www.linkedin
 
 I am familiar with JavaScript, React, Next, and Bootstrap.
 
-My goal is to become a great full-stack developer.
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=github_dark&utcOffset=-3)
-
+My goal is to become a great full-stack developer.✅
+<br>
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
@@ -45,3 +42,9 @@ My goal is to become a great full-stack developer.
 </div>
 
 ![](https://komarev.com/ghpvc/?username=LisboaAnt&color=green)
+
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=github_dark&utcOffset=-3)
