@@ -45,9 +45,9 @@ My goal is to become a great full-stack developer.✅
 
 <br>
 
-## Meu Desempenho:
+## My Performance:
 
-Aqui estão alguns gráficos que mostram detalhes do meu perfil do GitHub, os repositórios por linguagem e meu tempo produtivo:
+Here are some charts that show details of my GitHub profile, repositories per language, and my productive time:
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=nord_dark" alt="Detalhes do Perfil">
