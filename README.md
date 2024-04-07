@@ -45,9 +45,12 @@ My goal is to become a great full-stack developer.✅
 
 <br>
 
-## Adicione Meus Gráficos:
+## Meu Desempenho:
+
+Aqui estão alguns gráficos que mostram detalhes do meu perfil do GitHub, os repositórios por linguagem e meu tempo produtivo:
 
 ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=vue)
 ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=vue)
 ![Tempo Produtivo](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=vue&utcOffset=-3)
+
 
