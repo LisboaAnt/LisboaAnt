@@ -1,5 +1,4 @@
- <h2>Hi there, welcome to my Github</h2>
-
+ <h2 align="center">Hi there, welcome to my Github</h2>
 
 I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas. I'm **20** years old.  😁
 
