@@ -50,10 +50,10 @@ My goal is to become a great full-stack developer.✅
 Here are some charts that show details of my GitHub profile, repositories per language, and my productive time:
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=nord_dark" alt="Detalhes do Perfil">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LisboaAnt&theme=nord_dark" alt="Detalhes do Perfil">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=nord_dark&utcOffset=-3" alt="Tempo Produtivo">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LisboaAnt&theme=nord_dark" alt="Detalhes do Perfil">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=nord_dark" alt="Repositórios por Linguagem">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=nord_dark&utcOffset=-3" alt="Tempo Produtivo">
 </div>
 
 
