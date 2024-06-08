@@ -8,7 +8,7 @@
 
 <p>If you are an employer, feel free to contact me on <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/">LinkedIn</a>! 📫</p>
 
-<p>Check out my portfolio <a href="https://lisboaant.github.io/my-portfolio/">here</a>!</p>
+<p>Check out my portfolio <a href="https://lisboaant.github.io/my-portfolio/" target="_blank">here</a>!</p>
 
 <p>I am familiar with TypeScript, React, Next, and Bootstrap.</p>
 
