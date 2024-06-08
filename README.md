@@ -1,16 +1,20 @@
- <h2 align="center">Hi there, welcome to my Github</h2>
+<h2 align="center">Hi there, welcome to my Github</h2>
 
-I'm **Antônio Lisboa** from Porto Velho, but currently living in Russas/CE. I'm **20** years old.  😁
+<p>I'm <strong>Antônio Lisboa</strong> from Porto Velho, but currently living in Russas/CE. I'm <strong>20</strong> years old. 😁</p>
 
-💻 **I'm currently focusing on college and my [YouTube channel](https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig)**
+<p>💻 I'm currently focusing on college and my <a href="https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig">YouTube channel</a></p>
 
-I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree(UFC).
+<p align="center">Check out my portfolio <a href="https://lisboaant.github.io/my-portfolio/">here</a>!</p>
 
-If you are a employer, feel free to contact me on [likedin](https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/)!📫
+<p>I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree (UFC).</p>
 
-I am familiar with JavaScript, React, Next, and Bootstrap.
+<p>If you are an employer, feel free to contact me on <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/">LinkedIn</a>! 📫</p>
 
-My goal is to become a great full-stack developer.✅
+<p>I am familiar with TypeScript, React, Next, and Bootstrap.</p>
+
+<p>My goal is to become a great full-stack developer. ✅</p>
+
+<br>
 <br>
 <h3 align="left">Languages and Tools: <img src="https://raw.githubusercontent.com/npentrel/octoclippy2/master/gifs/ears.gif" width="30"></h3>
 <div style="display: inline_block"><br>
