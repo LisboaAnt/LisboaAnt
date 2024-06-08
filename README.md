@@ -4,11 +4,11 @@
 
 <p>💻 I'm currently focusing on college and my <a href="https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig">YouTube channel</a></p>
 
-<p align="center">Check out my portfolio <a href="https://lisboaant.github.io/my-portfolio/">here</a>!</p>
-
 <p>I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree (UFC).</p>
 
 <p>If you are an employer, feel free to contact me on <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/">LinkedIn</a>! 📫</p>
+
+<p>Check out my portfolio <a href="https://lisboaant.github.io/my-portfolio/">here</a>!</p>
 
 <p>I am familiar with TypeScript, React, Next, and Bootstrap.</p>
 
