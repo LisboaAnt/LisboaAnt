@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, welcome to my Github  <br> Check my Site! <a href="https://lisboaant.github.io/my-portfolio/" target="_blank">here</a>!</h2>
 
-<p>I'm <strong>Antônio Lisboa</strong> from Porto Velho, but currently living in Russas/CE. I'm <strong>20</strong> years old. 😁</p>
+<p>I'm <strong>Antônio Lisboa</strong> from Porto Velho, but currently living in Russas/CE. I'm <strong>22</strong> years old. 😁</p>
 
 <p>💻 I'm currently focusing on college and my <a href="https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig">YouTube channel</a></p>
 
