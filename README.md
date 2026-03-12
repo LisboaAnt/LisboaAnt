@@ -2,9 +2,9 @@
 
 <p>I'm <strong>Antônio Lisboa</strong> from Porto Velho, but currently living in Russas/CE. I'm <strong>22</strong> years old. 😁</p>
 
-<p>💻 I'm currently focusing on college and my <a href="https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig">YouTube channel</a></p>
+<p>💻 I'm currently focusing on my work, freelance projects, and my <a href="https://www.youtube.com/channel/UCyuz3d4mm4Dgzxh1F-USiig">YouTube channel</a>.</p>
 
-<p>I'm focusing on learning front-end frameworks, improving my skills, and completing my university degree (UFC).</p>
+<p>Having graduated in Computer Science from UFC, I'm now focusing on learning front-end frameworks and continuously improving my skills.</p>
 
 <p>If you are an employer, feel free to contact me on <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/">LinkedIn</a>! 📫</p>
 
@@ -60,5 +60,3 @@ Here are some charts that show details of my GitHub profile, repositories per la
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LisboaAnt&theme=nord_dark" alt="Detalhes do Perfil">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=nord_dark" alt="Repositórios por Linguagem">
 </div>
-
-
